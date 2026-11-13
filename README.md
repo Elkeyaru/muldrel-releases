@@ -14,6 +14,7 @@ Este repositorio solo contiene **ejecutables para probar** (sin código fuente).
 ## Versiones
 | Versión | Novedades principales |
 |---|---|
+| Alfa 0.8.10 | Morgue con cuerpo realista y forense contenido; grabaciones de vigilancia animadas; ordenador de 27"; tablón sin solapes |
 | Alfa 0.8.8 | Morgue 3D recorrible con protocolo completo de autopsia; casos con culpable sorteado (Caso 001: 3 culpables posibles, Caso 002: 4); oficina por estaciones; acusación con teoría; barrio piloto Los Almendros |
 
 Es una versión alfa: puede tener fallos. Si encuentras alguno, abre un *issue* con lo que hiciste y una captura.
